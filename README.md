@@ -430,9 +430,3 @@ Assets and Constants used in the project can be found [here](https://drive.googl
 
 Appwrite Database Setup can be found [here]()
 
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
